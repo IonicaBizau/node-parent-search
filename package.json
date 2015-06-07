@@ -1,0 +1,33 @@
+{
+  "name": "parent-search",
+  "version": "1.0.0",
+  "description": "Search files and folders in parent directories.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "is-there": "^2.0.0",
+    "ul": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/node-parent-search.git"
+  },
+  "keywords": [
+    "parent",
+    "search",
+    "files",
+    "directories"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/node-parent-search/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/node-parent-search"
+}
