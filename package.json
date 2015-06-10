@@ -7,8 +7,8 @@
     "example": "example"
   },
   "dependencies": {
-    "is-there": "^2.0.0",
-    "ul": "^2.1.0"
+    "is-there": "^4.0.0",
+    "ul": "^4.0.0"
   },
   "devDependencies": {},
   "scripts": {
