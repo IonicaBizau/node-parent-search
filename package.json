@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "is-there": "^4.0.0",
-    "ul": "^4.0.0"
+    "ul": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {
