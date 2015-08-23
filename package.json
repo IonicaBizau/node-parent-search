@@ -25,6 +25,9 @@
     "directories"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "contributors": [
+     "Jun Gu <2dxgujun@gmail.com> (http://2dxgujun.com)"
+  ],
   "license": "KINDLY",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-parent-search/issues"
