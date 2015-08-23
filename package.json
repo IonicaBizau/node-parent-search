@@ -1,6 +1,6 @@
 {
   "name": "parent-search",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Search files and folders in parent directories.",
   "main": "lib/index.js",
   "directories": {
@@ -26,7 +26,7 @@
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com>",
   "contributors": [
-     "Jun Gu <2dxgujun@gmail.com> (http://2dxgujun.com)"
+    "Jun Gu <2dxgujun@gmail.com> (http://2dxgujun.com)"
   ],
   "license": "KINDLY",
   "bugs": {
