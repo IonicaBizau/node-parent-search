@@ -1,14 +1,18 @@
+
 # parent-search [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/parent-search.svg)](https://www.npmjs.com/package/parent-search) [![Downloads](https://img.shields.io/npm/dt/parent-search.svg)](https://www.npmjs.com/package/parent-search) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Search files and folders in parent directories.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save parent-search
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -29,7 +33,8 @@ console.log(ParentSearch(__dirname + "/path/to/some/directory", "package.json"))
 console.log(ParentSearch(__dirname, "index.js", { obj: true }));
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `ParentSearch(path, search, options, callback, progress)`
 Searches a file/directory in parent directories.
@@ -66,21 +71,21 @@ in first argument and location object/string of the found file/directory.
 #### Return
 - **Array|String|Object** The location(s) that were found.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`blah`](https://github.com/IonicaBizau/blah)
 
- - [`esf-bsc`](https://github.com/bondden/esf-bsc/blob/master/README.md) by Denis Bondarenko
+ - [`blah`](https://github.com/IonicaBizau/blah)—A command line tool to optimize the repetitive actions.
+ - [`esf-bsc`](https://github.com/bondden/esf-bsc/blob/master/README.md) (by Denis Bondarenko)—ESF Basic class with loading/reloading configuration functionality
+ - [`git-stats-importer`](https://github.com/IonicaBizau/git-stats-importer)—Imports your commits from a repository into git-stats history.
+ - [`ssh-remote`](https://github.com/IonicaBizau/ssh-remote)—Automagically switch on the SSH remote url in a Git repository.
 
- - [`git-stats-importer`](https://github.com/IonicaBizau/git-stats-importer)
-
- - [`ssh-remote`](https://github.com/IonicaBizau/ssh-remote)
-
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
