@@ -20,6 +20,7 @@ file, starting with `example/some/dir`, just do
 `ParentSearch("path/to/some/dir", "package.json")`
 
 #### Params
+
 - **String** `path`: The start directory path.
 - **String** `search`: The file/directory to search.
 - **Object** `options`: An object containing the following fields:
