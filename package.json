@@ -1,6 +1,6 @@
 {
   "name": "parent-search",
-  "version": "1.3.9",
+  "version": "1.3.10",
   "description": "Search files and folders in parent directories.",
   "main": "lib/index.js",
   "directories": {
