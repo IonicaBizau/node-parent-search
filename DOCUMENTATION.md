@@ -36,5 +36,5 @@ in first argument and location object/string of the found file/directory.
  - `_`: The directory of searched path.
 
 #### Return
-- **Array|String|Object** The location(s) that were found.
+- **Array|String|Object|null** The location(s) that were found.
 
